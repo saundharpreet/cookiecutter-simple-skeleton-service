@@ -1,0 +1,4 @@
+{
+  "project_name": "simple-skeleton-service",
+  "project_name_camel": "{{ cookiecutter.project_name | replace('-', ' ') | title | replace(' ', '') }}"
+}
