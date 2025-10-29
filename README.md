@@ -23,5 +23,5 @@ This template generates a Java Maven service with:
 ## 🚀 Usage
 
 ```bash
-cruft create https://github.com/<your-username>/cookiecutter-simple-skeleton-service.git
+cruft create https://github.com/saundharpreet/cookiecutter-simple-skeleton-service.git
 ```
